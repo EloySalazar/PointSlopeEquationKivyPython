@@ -6,3 +6,8 @@ This project uses the Kivy module for the GUI, this consists of finding the slop
     ```
     git clone https://github.com/EloySalazar/PointSlopeEquationKivyPython.git
     ```
+## requirements
+This project is made in python 3 and Kivy 2.0.0
+- use the following modules:
+
+```pip install kivy```
