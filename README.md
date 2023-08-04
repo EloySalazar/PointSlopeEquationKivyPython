@@ -1,2 +1,2 @@
-# EcuacionPuntoPendienteKivyPython
-Este proyecto utiliza el modulo Kivy para la GUI,este consiste en hallar la ecuacion punto pendiente de los valores que nostros agreguemos  para posteriormente obtener el resultado
+# PointSlopeEquationKivyPython
+This project uses the Kivy module for the GUI, this consists of finding the slope point equation of the values ​​that we add to later obtain the result
